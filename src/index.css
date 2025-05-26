@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+header{
+  background-color: #1E1F24;
+}
+.div{
+  padding: 50px 0px;
+}
+.how{
+  opacity: 0.8;
+}
+.select{
+  background: radial-gradient(50% 50% at 50% 50%, #30313A 0%, #2C2D34 20.31%, #1F2025 50.52%, #18191E 86.98%, #17181D 99.48%);
+
+}
+.colors{
+  background: linear-gradient(238.02deg, rgba(38, 38, 39, 0.3) 1.77%, rgba(51, 52, 58, 0.3) 57.03%, rgba(34, 34, 36, 0.3) 100%);
+  backdrop-filter: blur(100px);
+border-radius: 20px;
+}
+
+body{
+  background-color: #17181D;
+}
+.header{
+  position: sticky;
+  top: 0;
+  z-index: 1111;
+}
+.kelller{
+  background: linear-gradient(148.14deg, #202124 3.67%, #24252D 43.12%, #1C1D21 96.04%);
+
+}
