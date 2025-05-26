@@ -1,7 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 import iphone from '../../img/iphones.svg';
-import glosy1 from '../../img/glossy.svg';
 import card from '../../img/card.svg';
 import qr from '../../img/qr.svg';
 import googleplay from '../../img/google play.svg';
