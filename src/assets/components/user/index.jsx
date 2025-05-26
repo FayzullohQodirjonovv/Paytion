@@ -1,8 +1,8 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import image_1 from '../../img/video 1.svg';
-import image_2 from '../../img/video 2.svg';
-import image_3 from '../../img/video 3.svg';
+import image_1 from '../../img/video1.svg';
+import image_2 from '../../img/video2.svg';
+import image_3 from '../../img/video3.svg';
 
 const TrustUsSection = () => {
   const { t } = useTranslation();

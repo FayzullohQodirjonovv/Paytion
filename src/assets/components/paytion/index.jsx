@@ -3,8 +3,8 @@ import { useTranslation } from 'react-i18next';
 import iphone from '../../img/iphones.svg';
 import card from '../../img/card.svg';
 import qr from '../../img/qr.svg';
-import googleplay from '../../img/google play.svg';
-import app from '../../img/app store.svg';
+import googleplay from '../../img/googleplay.svg';
+import app from '../../img/appstore.svg'; 
 
 const PaytionAppSection = () => {
   const { t } = useTranslation();
