@@ -5,7 +5,7 @@ import { faGlobe } from '@fortawesome/free-solid-svg-icons';
 import sho from '../../img/SHO.svg'
 const Footer = () => {
   return (
-    <footer className="mt-[100px]  relative bg-[#1a1a1a] text-white py-16 px-4 sm:px-6 lg:px-8 overflow-hidden">
+    <footer className="mt-[100px] text-white py-16 px-4 sm:px-6 lg:px-8 overflow-hidden">
       <div className="absolute top-0 right-0 h-full "></div>
 
       <div className="max-w-7xl mx-auto flex flex-wrap justify-between items-start">
