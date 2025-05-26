@@ -24,7 +24,7 @@ const PaytionAppSection = () => {
 
           <div className="flex flex-col sm:flex-row items-center space-y-4 sm:space-y-0 sm:space-x-8">
             <div className="flex flex-col items-center">
-              <img src={qr} alt="Google Play QR" className="w-24 h-24 p-1 rounded bg-white" />
+              <img src={qr} alt="Google Play QR" className="w-24 h-24 p-1 rounded" />
             </div>
 
             <div className="flex flex-col items-center gap-3">

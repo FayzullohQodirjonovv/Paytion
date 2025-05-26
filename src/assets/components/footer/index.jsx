@@ -6,9 +6,7 @@ import sho from '../../img/SHO.svg'
 const Footer = () => {
   return (
     <footer className="mt-[100px] text-white py-16 px-4 sm:px-6 lg:px-8 overflow-hidden">
-      <div className="absolute top-0 right-0 h-full "></div>
-
-      <div className="max-w-7xl mx-auto flex flex-wrap justify-between items-start">
+      <div className="w-[90%] m-auto flex flex-wrap justify-between items-start">
         <div className="w-full md:w-1/3 lg:w-1/4 mb-10 md:mb-0 pr-4">
           <h2 className="text-4xl font-bold mb-4">Paytion</h2>
           <p className="text-gray-400 text-sm leading-relaxed mb-6">
